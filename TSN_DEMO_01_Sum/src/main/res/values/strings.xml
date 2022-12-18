@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android_lab01_MAS10</string>
+    <string name="b">B=</string>
+    <string name="x">X=</string>
+    <string name="sum">Сумма</string>
+    <string name="button_name">Введите цифры и нажмите кнопку сумма</string>
+    <string name="a">A=</string>
+    <string name="logo">logo</string>
+</resources>
